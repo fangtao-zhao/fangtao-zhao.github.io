@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Fangtao Zhao (赵方韬), a postgraduate student at Viterbi School of Engineering, University of Southern California (USC). I am also a Research Assistant in [USC HaRVI Lab](https://sites.usc.edu/culbertson/), under the supervision of [Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). I completed my BSc degree at[Xi’an Jiaotong-Liverpool University (XJTLU) in 2023 and was a member of X-CHI Lab, directed by [Hai-Ning Liang](https://scholar.google.com/citations?user=UJPH5ioAAAAJ&hl=en). I was a Research Assistant at [Computation Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Hong Kong University of Science and Technology (Guangzhou) (HKUST-GZ) in 2024, directed by [Mingming Fan](https://www.mingmingfan.com/).
+I am Fangtao Zhao (赵方韬), a postgraduate student at Viterbi School of Engineering, University of Southern California (USC). I am also a Research Assistant in [USC HaRVI Lab](https://sites.usc.edu/culbertson/), under the supervision of [Heather Culbertson](https://viterbi.usc.edu/directory/faculty/Culbertson/Heather). I completed my BSc degree at Xi’an Jiaotong-Liverpool University (XJTLU) in 2023 and was a member of X-CHI Lab, directed by [Hai-Ning Liang](https://scholar.google.com/citations?user=UJPH5ioAAAAJ&hl=en). I was a Research Assistant at [Computation Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Hong Kong University of Science and Technology (Guangzhou) (HKUST-GZ) in 2024, directed by [Mingming Fan](https://www.mingmingfan.com/).
 
 A data-driven personal website
 ======
