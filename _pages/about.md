@@ -11,7 +11,7 @@ I am Fangtao Zhao (赵方韬), a postgraduate student at Viterbi School of Engin
 
 You can find my [CV](../files/Fangtao_Zhao_CV_2024.9.pdf) here.
 
-My email: fangtaoz@usc.edu
+Email: fangtaoz@usc.edu
 
 About My Research
 ======
