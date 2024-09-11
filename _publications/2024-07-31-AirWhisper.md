@@ -8,5 +8,5 @@ date: 2024-07-31
 venue: 'Journal on Multimodal User Interfaces'
 slidesurl: # 'https://doi.org/10.1007/s12193-024-00438-9'
 paperurl: 'http://fangtao-zhao.github.io/files/AirWhisper.pdf'
-citation: '**Fangtao** **Zhao**, Yiming Luo, Ziming Li, Yue Li, Hai-Ning Liang. (2024), “AirWhisper: Enhancing Virtual Reality Experience via Visual-Airflow Multimodal Feedback.”, Journal on Multimodal User Interfaces'
+citation: 'Fangtao Zhao, Yiming Luo, Ziming Li, Yue Li, Hai-Ning Liang. (2024), “AirWhisper: Enhancing Virtual Reality Experience via Visual-Airflow Multimodal Feedback.”, Journal on Multimodal User Interfaces'
 ---
