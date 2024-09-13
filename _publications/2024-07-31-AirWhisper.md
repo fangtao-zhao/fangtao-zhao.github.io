@@ -3,7 +3,7 @@ title: "AirWhisper: enhancing virtual reality experience via visual-airflow mult
 collection: publications
 category: manuscripts
 permalink: # /publications/2024-07-31-AirWhisper
-excerpt: # '**Abstract**'
+# excerpt: # '**Abstract**'
 date: 2024-07-31
 venue: 'Journal on Multimodal User Interfaces'
 slidesurl: # 'https://doi.org/10.1007/s12193-024-00438-9'
