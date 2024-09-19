@@ -16,12 +16,12 @@ You can find my [CV](../files/Fangtao_Zhao_CV_2024.9.pdf) here.
 Email: fangtaoz@usc.edu
 
 About My Research
-======
+-
 My research interests lie in the realm of Human-Computer Interaction (HCI), specifically in Virtual Reality (VR), Haptics, Multimodal Interfaces, and Games. My work focuses on studying the way users perceive the environment under different conditions and developing interactive systems that match their perceptual characteristics. 
 
 Publications
-======
-AirWhisper: Enhancing Virtual Reality Experience via Visual-Airflow Multimodal Feedback
-**Fangtao Zhao**, Yiming Luo, Ziming Li, Yue Li, Hai-Ning Liang
-Journal on Multimodal User Interface. JMUI 2024
+-
+**AirWhisper: Enhancing Virtual Reality Experience via Visual-Airflow Multimodal Feedback**  
+**Fangtao Zhao**, Yiming Luo, Ziming Li, Yue Li, Hai-Ning Liang  
+*Journal on Multimodal User Interface. JMUI 2024*  
 [[PDF](../files/AirWhisper.pdf)]
