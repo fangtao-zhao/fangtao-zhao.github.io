@@ -11,6 +11,8 @@ I am Fangtao Zhao (赵方韬), a postgraduate student at Viterbi School of Engin
 
 I completed my BSc degree at Xi’an Jiaotong-Liverpool University (XJTLU) in 2023 and was a member of X-CHI Lab, directed by [Hai-Ning Liang](https://scholar.google.com/citations?user=UJPH5ioAAAAJ&hl=en). I was a Research Assistant at [Computation Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Hong Kong University of Science and Technology (Guangzhou) (HKUST-GZ) in 2024, directed by [Mingming Fan](https://www.mingmingfan.com/).
 
+In addition to being a researcher, I am also a game developer and a member of [USC Games](https://games.usc.edu). Currently, I am working as the Audio Lead for a USC Advanced Games Project (AGP). See you at the [USC Games Expo](https://www.uscgamesexpo.com) 2025!
+
 You can find my [CV](../files/Fangtao_Zhao_CV_2024.9.pdf) here.
 
 Email: fangtaoz@usc.edu
