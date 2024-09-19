@@ -13,7 +13,7 @@ I completed my BSc degree at Xi’an Jiaotong-Liverpool University (XJTLU) in 20
 
 In addition to being a researcher, I am also a game developer and a member of [USC Games](https://games.usc.edu). Currently, I am working as the Audio Lead for a USC Advanced Games Project (AGP). See you at the [USC Games Expo](https://www.uscgamesexpo.com) 2025!
 
-You can find my [CV](../files/Fangtao_Zhao_CV_2024.9.pdf) here.
+You can find my [CV](../files/Fangtao_ZHAO_CV_2024.9.19.pdf) here.
 
 Email: fangtaoz@usc.edu
 
