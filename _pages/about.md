@@ -23,7 +23,7 @@ My research interests lie in the realm of Human-Computer Interaction (HCI), spec
 
 Publications
 -
-<table style="border: none; font-size: inherit;">
+<table style="border-collapse: collapse; border: none; font-size: inherit;">
   <tr>
     <td>
       <strong>AirWhisper: Enhancing Virtual Reality Experience via Visual-Airflow Multimodal Feedback</strong><br>
