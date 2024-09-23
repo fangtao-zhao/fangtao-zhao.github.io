@@ -23,7 +23,23 @@ My research interests lie in the realm of Human-Computer Interaction (HCI), spec
 
 Publications
 -
+<table>
+  <tr>
+    <td>
+      <strong>AirWhisper: Enhancing Virtual Reality Experience via Visual-Airflow Multimodal Feedback</strong><br>
+      <strong>Fangtao Zhao</strong>, Yiming Luo, Ziming Li, Yue Li, Hai-Ning Liang<br>
+      <em>Journal on Multimodal User Interface. JMUI 2024</em><br>
+      <a href="../files/AirWhisper.pdf">[PDF]</a>
+    </td>
+    <td>
+      <img src="../images/AirWhisper-Teaser.png" alt="AirWhisper Image" width="300px">
+    </td>
+  </tr>
+</table>
+
+<!--
 **AirWhisper: Enhancing Virtual Reality Experience via Visual-Airflow Multimodal Feedback**  
 **Fangtao Zhao**, Yiming Luo, Ziming Li, Yue Li, Hai-Ning Liang  
-*Journal on Multimodal User Interface. JMUI 2024*  
+*Journal on Multimodal User Interface. JMUI 2024*
 [[PDF](../files/AirWhisper.pdf)]
+-->
